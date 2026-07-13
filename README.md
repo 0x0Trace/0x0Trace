@@ -36,7 +36,7 @@ I develop **offensive security projects** primarily in **Python**, specializing 
 ## Technical Writing
 
 I maintain a technical blog at [z3rotrace.live](https://z3rotrace.live) featuring:
-- HTB machine walkthroughs
+- HackSmarter Labs machine walkthroughs
 - Active Directory attack methodologies
 - Custom tool development documentation
 - Penetration testing techniques
