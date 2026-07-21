@@ -7,10 +7,10 @@ I'm a cybersecurity professional currently serving in the Greek military while t
 
 ## Certifications
 
+- **CPTS** ( Certified Penetration Tester Specialist )
 - **PNPT** (Practical Network Penetration Tester)
 - **CCNA** (Cisco Certified Network Associate)
 - **CompTIA Security+**
-- Currently preparing for **HTB CPTS**
 
 ## Focus Areas
 
